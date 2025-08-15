@@ -18,6 +18,7 @@ struct Node* insertfirst(struct Node *head) {
     return head;
 }
 
+// this function is used to display the nodes we have entered . 
 void display(struct Node *head) {
     struct Node *ptr;
     ptr = head;
@@ -29,7 +30,7 @@ void display(struct Node *head) {
     printf("NULL \n");
 }
 
-
+// This is our main function . where we are using a loop to insert nodes . 
 int main() {
     struct Node *head = NULL;
 
