@@ -6,6 +6,8 @@ struct Node {
     struct Node *next;
 };
 
+// this function is used to insert new nodes in the beginnning of a linked list 
+
 struct Node* insertfirst(struct Node *head) {
     struct Node *newnode;
     newnode = (struct Node *)malloc(sizeof(struct Node));
