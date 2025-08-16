@@ -13,6 +13,7 @@ To use the code in this repository, you will need a C compiler (like GCC) instal
 Ensure you have gcc and git installed. You can check by running:
 
 gcc --version
+<br>
 git --version
 
 # Usage
