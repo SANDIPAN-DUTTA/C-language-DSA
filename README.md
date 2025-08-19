@@ -19,13 +19,11 @@ git --version
 # Usage
 Clone the repository to your local machine:
 
-git clone https://github.com/your-username/your-repository-name.git
-
-(Replace your-username/your-repository-name with your actual repo details)
+git clone https://github.com/SANDIPAN-DUTTA/C-language-DSA.git
 
 Navigate to the project directory:
 
-cd your-repository-name
+cd C-language-DSA
 
 # Compile and Run a File:
 Each implementation is self-contained. To compile and run a specific file (e.g., linked_list.c), use the following commands:
